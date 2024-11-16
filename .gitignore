@@ -1,0 +1,7 @@
+# 環境関連
+.venv/
+_pycache__/
+.env
+
+# 出力データ
+/data/*.csv
